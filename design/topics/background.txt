@@ -1,0 +1,134 @@
+The nutritional guidelines provide important information for this
+particular scenario.  For each nutrient, there three categories of
+information:
+
+	Recommendation: The recommended daily amount is listed
+	directly after each nutrient. It is analagous to the familiar
+	recommended dietary allowance (RDA), but is adjusted for the
+	specific conditions of each scenario.  It can be thought of as
+	an optimal value.
+
+	EAR: The Estimated Average Requirement (EAR) is an intake
+	level that is estimated to meet the nutritional needs for half
+	of the general population. Conversely, this amount might be
+	insufficient for as much as half of the population.
+
+	UL: The Tolerable Upper Intake Level (UL) is the largest
+	intake level that has no documented ill effects. Consumption
+	up to this amount is considered safe; greater amounts may have
+	toxic effects.
+
+The EAR and UL have not been determined for all nutrients. They are
+general guidelines not adjusted for a specific scenario and are
+specified for each nutrient in isolation (i.e., they do not account
+for interactions between nutrients, which is valid for some
+scenarios).
+
+
+Information on nutrients
+
+Calories: Calories are not a specific substance but rather a
+measurement of the energy potential of the food consumed. Insufficient
+caloric intake can leads to starvation, which can cause behavioral
+disorders, atrophy, and eventually death. Overconsumption of calories
+can lead to obesity, which increases the risk of many ailments, such
+as heart disease, diabetes, various cancers, arthritis, asthma, and
+can eventually lead to death.
+
+Cholesterol: Cholesterol gives the cells a flexible structure and is
+used to create vitamin D and certain hormones. Your body synthesizes
+cholesterol so deficiencies are rare, but can interfere with proper
+cell function and stunt growth. High cholesterol, specifically high
+density lipoproteins (HDL) cholesterol, can clog arteries, leading to
+pain, heart attack, stroke, and potentially death.
+
+Sodium: Sodium is used by your body to maintain proper blood pressure
+and pH, among other liquid regulatory functions. Insufficient sodium
+can cause nausea, headache, confusion, fatigue, muscle weakness,
+seizures, coma and death. Excessive sodium can cause lethargy,
+weakness, seizures, and comas, and continued high sodium intake can
+lead to high blood pressure, which increases the chance of heart
+attack and death.
+
+Potassium: Potassium influences a variety of biological functions,
+such as electrolyte balance, proper blood pressure, and glucose and
+insulin metabolism. Inadequate potassium increases the risk of high
+blood pressure, heart disease, stroke, arthritis, cancer, digestive
+disorders, and infertility. Excessive potassium can cause low blood
+pressure, irregular heartbeat, weakness, and coma.
+
+(Total) Carbohydates: Carbohydrates are primary a source of energy
+(calories) and are not considered an essential nutrient. No particular
+risk has been proven for low carbohydrate consumption. Likewise,
+excessive carbohydate consumption adds risks only in the calories they
+provide.
+
+Dietary Fiber: Dietary fiber is an indigestible component of food that
+generally helps with digestion, regulates blood sugar, and lowers
+cholesterol. Inadequate fiber consumption can impair digestion and
+increases the risk of obesity, diabetes, high cholesterol, heart
+disease and colon cancer. Overconsumption of fiber can cause bloating.
+
+Protein: Protein is used by your body to produce tissue, and is also a
+source of energy (calories). When not enough protein is consumed, your
+body will break down your muscles, in a sense cannibalizing
+itself. Excess protein consumption can tax the kidneys, increasing the
+risk of kidney stones.
+
+Vitamin A: Vitamin A is used in vision, cell growth, and by your
+immune system. Insufficient vitamin A can lead to night blindness,
+weakened immune system and for children, and increased risk of (total)
+blindness and death. Overconsumption of Vitamin a can cause nausea,
+headaches, blurred vision, weakness, hair loss, liver damage and can
+lead to birth defects.
+
+Vitamin C: Vitamin C is an essential nutrient which strengthens the
+immune system and decreases the risk of eye disease, cardiovascular
+disease and even cancer. A deficiency of Vitamin C can develop scurvy,
+which causes fatigue, bleeding gums, depression and even
+death. Overconsumption can cause indigestion and increases the risk of
+iron poisoning.
+
+Calcium: Calcium helps strengthen bones, but also plays a role in
+blood clotting and muscle function. Calcium deficiency can lead to
+rickets (a bone development disorder), increase bleeding and the risk
+of osteoporosis. Overconsumption can cause kidney stones, pain in the
+abdomen and bones, fatigue, depression, insomnia, and coma.
+
+Iron: Iron plays an important role in metabolism, and is a part of
+hemoglobin, a protein in blood. An iron deficiency can lead to anemia
+and death. Overconsumption of iron can damage the heart, liver and
+other organs, and can cause coma and death.
+
+Thiamin: Thiamin is used in metabolism, allowing your body to convert
+food into energy. Thiamin deficiency can lead to diseases such as
+beriberi and Wernicke-Korsakoff syndrome, which in turn cause
+digestive problems, mental disorders, nervous system impairment and
+even death. Thiamin is not known to be toxic and is not a concern for
+overconsumption from dietary sources.
+
+Niacin: Niacin is used in organ function, DNA repair, and helps manage
+cholesterol and triglyceride (fat substance) in the blood. Inadequate
+niacin consumption can lead to pellagra, a disease that can cause
+digestion issues, skin disorders, amnesia, delirium and
+death. Overconsumption of niacin can cause facial flushing (redness
+and tingling), digestion issues, and can damage the liver.
+
+Vitamin B6: Vitamin B6 is used in metabolism and influence mood and
+proper brain function. Insufficient vitamin B6 can cause skin rashes,
+sores on the tongue, pink eye, and anemia. There is no risk of
+overconsumption from food.
+
+Magnesium: Magnesium is used in metabolism and other chemical
+reactions, helps regulate blood sugar and certain minerals, and helps
+build teeth and bones. Inadequate magnesium can cause weakness, muscle
+cramps, fast heart rate, mood disorders, hallucinations, seizures and
+high blood pressure. Properly functioning kidneys eliminate the
+possibility of magnesium overdose from food sources.
+
+Folate: Folate is used in proper cell function and lowers the risk of
+anemia and heart disease. A deficiency of folate can lead to weakness,
+headaches, heart palpitations, mood and behavioral disorders, anemia,
+and birth defects. Excessive folate can cause digestive problems,
+nausea, loss of appetite, sleep disturbances, depression and
+irritability.

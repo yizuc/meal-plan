@@ -1,0 +1,23 @@
+You are choosing meals for <NAME>, a 65 year old female. <NAME> is diabetic. Her nutritional needs are normal, except less than 25% of calories should come from sugars (one gram of sugar has about 4 calories).
+
+Complete nutritional guidelines for <NAME> follow. 
+
+                       Recommended      EAR           UL
+Calories                 2000cal        --            --      
+Cholesterol               300mg         --            --      
+Sodium                   1500mg         --          2300mg    
+Potassium                4700mg         --            --      
+Total Carbohydrates       130g          --            --      
+Dietary Fiber              25g          --            --      
+Protein                    46g          --           285g     
+Vitamin A                3000IU       2000IU       10000IU    
+Vitamin C                  90mg         75mg        2000mg    
+Calcium                  1000mg        800mg        2500mg    
+Iron                        8mg          6mg          45mg    
+Thiamin                   1.1mg        1.0mg          --      
+Niacin                     15mg         12mg          35mg    
+Vitamin B6                1.3mg        1.1mg         100mg    
+Magnesium                 400mg        330mg          --      
+Folate                    0.4mg       0.33mg           1mg    
+
+<NAME> wants a daily meal plan that follows these overall recommendations, with an emphasis on delicious food (as rated), calories intake, sodium intake, and sugars intake.

@@ -1,0 +1,23 @@
+You are choosing meals for <NAME>, a 25 year old female. <NAME> is pregnant, and has been advised to consume more protein, more vitamin C, more calcium, more iron, more magnesium, and more folate than the standard recommended daily allowance (RDA).
+
+Complete nutritional guidelines for <NAME> follow. These recommendations have already been adjusted for <NAME>, so no addition or subtraction is necessary.
+
+                       Recommended      EAR           UL
+Calories                 2000cal        --            --      
+Cholesterol               300mg         --            --      
+Sodium                   1500mg         --          2300mg    
+Potassium                4700mg         --            --      
+Total Carbohydrates       130g          --            --      
+Dietary Fiber              25g          --            --      
+Protein                    56g          --           285g     
+Vitamin A                3000IU       2000IU       10000IU    
+Vitamin C                 100mg         75mg        2000mg    
+Calcium                  1200mg        800mg        2500mg    
+Iron                        9mg          6mg          45mg    
+Thiamin                   1.1mg        1.0mg          --      
+Niacin                     15mg         12mg          35mg    
+Vitamin B6                1.3mg        1.1mg         100mg    
+Magnesium                 450mg        330mg          --      
+Folate                    0.8mg       0.33mg           1mg    
+
+<NAME> wants a daily meal plan that follows these overall recommendations, with an emphasis on delicious food (as rated), protein intake, iron intake, and folate intake.

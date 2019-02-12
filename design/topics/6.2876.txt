@@ -1,0 +1,23 @@
+You are choosing meals for <NAME>, a 40 year old male. <NAME> has high blood pressure, and has been advised to consume less sodium than the standard recommended daily allowance (RDA).
+
+Complete nutritional guidelines for <NAME> follow. These recommendations have already been adjusted for <NAME>, so no addition or subtraction is necessary.
+
+                       Recommended      EAR           UL
+Calories                 2500cal        --            --      
+Cholesterol               300mg         --            --      
+Sodium                    750mg         --          2300mg    
+Potassium                4700mg         --            --      
+Total Carbohydrates       130g          --            --      
+Dietary Fiber              38g          --            --      
+Protein                    56g          --           285g     
+Vitamin A                3000IU       2000IU       10000IU    
+Vitamin C                  90mg         75mg        2000mg    
+Calcium                  1000mg        800mg        2500mg    
+Iron                        8mg          6mg          45mg    
+Thiamin                   1.5mg        1.0mg          --      
+Niacin                     19mg         12mg          35mg    
+Vitamin B6                1.3mg        1.1mg         100mg    
+Magnesium                 400mg        330mg          --      
+Folate                    0.4mg       0.33mg           1mg    
+
+<NAME> wants a daily meal plan that follows these overall recommendations, with an emphasis on delicious food (as rated), sodium intake, protein intake, and folate intake.

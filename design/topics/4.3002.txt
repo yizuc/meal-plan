@@ -1,0 +1,23 @@
+You are choosing meals for <NAME>, a 70 year old male. <NAME> is recovering from a stroke and taking aspirin daily, and has been advised to consume less calories, more vitamin C, more thiamin, and more folate than the standard recommended daily allowance (RDA).
+
+Complete nutritional guidelines for <NAME> follow. These recommendations have already been adjusted for <NAME>, so no addition or subtraction is necessary.
+
+                       Recommended      EAR           UL
+Calories                 1800cal        --            --      
+Cholesterol               300mg         --            --      
+Sodium                   1500mg         --          2300mg    
+Potassium                4700mg         --            --      
+Total Carbohydrates       130g          --            --      
+Dietary Fiber              38g          --            --      
+Protein                    56g          --           285g     
+Vitamin A                3000IU       2000IU       10000IU    
+Vitamin C                 120mg         75mg        2000mg    
+Calcium                  1000mg        800mg        2500mg    
+Iron                        8mg          6mg          45mg    
+Thiamin                   1.9mg        1.0mg          --      
+Niacin                     19mg         12mg          35mg    
+Vitamin B6                1.3mg        1.1mg         100mg    
+Magnesium                 400mg        330mg          --      
+Folate                    0.5mg       0.33mg           1mg    
+
+<NAME> wants a daily meal plan that follows these overall recommendations, with an emphasis on delicious food (as rated), sodium intake, thiamin intake, and folate intake.

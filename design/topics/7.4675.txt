@@ -1,0 +1,23 @@
+You are choosing meals for <NAME>, a 30 year old female. <NAME> is nursing an infant, and has been advised to consume more protein, more vitamin A, more vitamin C, more thiamin, more niacin, and more folate than the standard recommended daily allowance (RDA).
+
+Complete nutritional guidelines for <NAME> follow. These recommendations have already been adjusted for <NAME>, so no addition or subtraction is necessary.
+
+                       Recommended      EAR           UL
+Calories                 2000cal        --            --      
+Cholesterol               300mg         --            --      
+Sodium                   1500mg         --          2300mg    
+Potassium                4700mg         --            --      
+Total Carbohydrates       130g          --            --      
+Dietary Fiber              25g          --            --      
+Protein                    61g          --           285g     
+Vitamin A                4000IU       2000IU       10000IU    
+Vitamin C                 100mg         75mg        2000mg    
+Calcium                  1000mg        800mg        2500mg    
+Iron                        8mg          6mg          45mg    
+Thiamin                   1.5mg        1.0mg          --      
+Niacin                     18mg         12mg          35mg    
+Vitamin B6                1.3mg        1.1mg         100mg    
+Magnesium                 400mg        330mg          --      
+Folate                    0.6mg       0.33mg           1mg    
+
+<NAME> wants a daily meal plan that follows these overall recommendations, with an emphasis on delicious food (as rated), protein intake, vitamin A intake, and vitamin C intake.
