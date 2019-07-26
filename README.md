@@ -1,9 +1,9 @@
 # Meal plan Retrieval Study
 
 This repository contains the data used in the meal plan user
-study, as described in the paper "Item Retrieval As Utility
-Estimation". Please refer to this paper for additional details on the
-data.
+study, as described in the paper  "[Item Retrieval As Utility
+Estimation](https://ti.arc.nasa.gov/publications/52165/download/)".
+Please refer to this paper for additional details on the data.
 
 If you use this data in your publication, please include the following
 citation:
